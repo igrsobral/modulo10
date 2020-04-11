@@ -1,2 +1,2 @@
-# modulo10
-A mobile part of GoBarber app
+# Modulo10
+A Mobile part of GoBarber app
